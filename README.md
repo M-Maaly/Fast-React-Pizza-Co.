@@ -6,7 +6,7 @@ A fun React-based pizza menu app demonstrating the fundamentals of React compone
 
 ### 📸 Preview
 
-![Pizza App Screenshot](./pizzas/Screenshot_26-5-2025_35552_m-maaly.github.io.jpeg)  
+![Pizza App Screenshot](public/pizzas/Screenshot_26-5-2025_35552_m-maaly.github.io.jpeg)  
 *A beautiful pizza menu, dynamically rendered using React components.*
 
 ---
